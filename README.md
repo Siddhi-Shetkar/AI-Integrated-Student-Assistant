@@ -53,9 +53,13 @@ The AI-Integrated Student Assistant provides a **unified, intelligent platform**
 3. Database (Academic Data Storage)
 4. AI Engine (Summarization & Chatbot)
 
+---
+
 ## 🔐 User Roles
 - **Student:** Manages schedules, accesses materials, receives reminders
 - **Admin (Optional):** Manages system configurations and content
+
+---
 
 ## 📈 Future Enhancements
 - Personalized study recommendations
@@ -64,11 +68,15 @@ The AI-Integrated Student Assistant provides a **unified, intelligent platform**
 - Multi-language support
 - Calendar sync with Google Calendar
 
+---
+
 ## 📄 Use Cases
 - Tracking multiple assignment deadlines
 - Quickly summarizing lecture notes before exams
 - Getting instant answers to academic questions
 - Managing project timelines efficiently
+
+---
 
 ## 🧪 Project Status
 🟡 **Intermediate Level – In Development**
