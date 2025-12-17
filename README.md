@@ -37,7 +37,6 @@ The AI-Integrated Student Assistant provides a **unified, intelligent platform**
 
 ### 🔔 Notifications
 - Deadline alerts
-- Upcoming class reminders
 
 ---
 
