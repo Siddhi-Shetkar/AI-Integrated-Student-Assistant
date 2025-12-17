@@ -1,68 +1,74 @@
-﻿# HTF25-Team-115
+# PS27 – AI-Integrated Student Assistant
 
-## GitHub submission guide
+## 📌 Overview
+The **AI-Integrated Student Assistant** is an intelligent academic support platform designed specifically for engineering students. It centralizes essential academic information such as timetables, lecture materials, assignments, and project deadlines into a single, user-friendly interface.
 
-In this Readme, you will find a guide on how to fork this Repository, add files to it, and make a pull request to contribute your changes.
+By leveraging AI-powered features like smart summarization, automated reminders, and chat/voice-based interaction, the system helps students stay organized, reduce missed deadlines, and improve overall academic productivity.
 
-<details open>
-<summary><h3>1. Login to your GitHub Account</h3></summary>
-<br>
-<p>Go to <a href="https://github.com">github.com</a> to log in.</p>
-<ul>
-   <li>Open the <a href="https://github.com/cbitosc/HTF25-Team-115">current repo</a> in a new tab.</li>
-   <li>Perform all operations in the newly opened tab, and follow the current tab for instructions.</li>
-</ul>
-</details>
+---
 
-<details open>
-<summary><h3>2. Fork the Repository</h3></summary>
-<br>
-<p align="center">
-  <img src="fork.jpeg" alt="Fork the Repository" height="300">
-</p>
-<ul>
- <li>In the newly opened tab, on the top-right corner, click on <b>Fork</b>.</li>
- <li>Enter the <b>Repository Name</b> as <b>HTF25-Team-115</b>.</li>
- <li>Then click <b>Create Fork</b>, leaving all other fields as default.</li>
- <li>After a few moments, you can view your forked repo.</li>
-</ul>
-</details>
+## 🎯 Problem Statement
+Engineering students often struggle to manage multiple courses, assignments, deadlines, and study materials spread across different platforms. This fragmentation leads to missed deadlines, inefficient studying, and increased stress.
 
-<details open>
-<summary><h3>3. Clone your Repository</h3></summary>
-<br>
-<ul>
- <li>Click on <b>Code</b> and from the dropdown menu copy your <b>web URL</b> of your forked repository.</li>
- <li>Now open terminal on your local machine.</li>
- <li>Run this command to clone the repo:</li>
-<pre><code>git clone https://github.com/your-username/HTF25-Team-115.git</code></pre>
-</ul>
-</details>
+---
 
-<details open>
-<summary><h3>4. Adding files to the Repository</h3></summary>
-<br>
-<ul>
- <li>While doing it for the first time, create a new branch for your changes:</li>
-<pre><code>git checkout -b branch-name</code></pre>
- <li>Add your files or make modifications to existing files.</li>
- <li>Stage your changes:</li>
-<pre><code>git add .</code></pre>
- <li>Commit your changes:</li>
-<pre><code>git commit -m "Descriptive commit message"</code></pre>
- <li>Push your branch to your fork:</li>
-<pre><code>git push origin branch-name</code></pre>
-</ul>
-</details>
+## 💡 Solution
+The AI-Integrated Student Assistant provides a **unified, intelligent platform** that:
+- Organizes academic schedules and resources
+- Sends timely reminders for deadlines and events
+- Summarizes lengthy study materials
 
-<details open>
-<summary><h3>5. Create a Pull Request</h3></summary>
-<br>
-<ul>
- <li>Click on the <b>Contribute</b> button in your fork and choose <b>Open Pull Request</b>.</li>
- <li>Leave all fields as default, then click <b>Create Pull Request</b>.</li>
- <li>Wait a few moments; your PR is now submitted.</li>
-</ul>
-</details>
+---
 
-## Thanks for participating!
+## 🚀 Key Features
+
+### 📅 Academic Management
+- Centralized timetable management
+- Assignment and project deadline tracking
+- Automated reminders
+
+### 🧠 AI-Powered Assistance
+- Smart summarization of lecture notes and study materials
+- AI-based chatbot for academic queries
+
+### 📂 Resource Organization
+- Upload and manage lecture notes and documents
+- Easy retrieval of materials by subject or date
+
+### 🔔 Notifications
+- Deadline alerts
+- Upcoming class reminders
+
+---
+
+## 🛠️ Tech Stack (Suggested)
+- **Frontend:** React / HTML, CSS, JavaScript
+- **AI & NLP:** OpenAI API
+
+---
+
+## 🧩 System Architecture (High-Level)
+1. User Interface (Web)
+2. Backend Server (API Handling)
+3. Database (Academic Data Storage)
+4. AI Engine (Summarization & Chatbot)
+
+## 🔐 User Roles
+- **Student:** Manages schedules, accesses materials, receives reminders
+- **Admin (Optional):** Manages system configurations and content
+
+## 📈 Future Enhancements
+- Personalized study recommendations
+- AI-based exam preparation assistance
+- Integration with college LMS platforms
+- Multi-language support
+- Calendar sync with Google Calendar
+
+## 📄 Use Cases
+- Tracking multiple assignment deadlines
+- Quickly summarizing lecture notes before exams
+- Getting instant answers to academic questions
+- Managing project timelines efficiently
+
+## 🧪 Project Status
+🟡 **Intermediate Level – In Development**
